@@ -1,0 +1,28 @@
+{
+    "version": "0.1",
+    "name": "PhotoTour",
+    "description": "Aplicación que sirve a los turistas cuando están en una ciudad que no conocen, para que les muestre lugares de interés que se encuentren 10 Km a la redonda.",
+    "launch_path": "/",
+    "icons": {
+        "16": "/img/icons/phototour-16.png",
+        "48": "/img/icons/phototour-48.png",
+        "128": "/img/icons/phototour-128.png"
+    },
+    "developer": {
+        "name": "David Cespedes",
+        "url": "http://www.lsrmarketingservice.com"
+    },
+    "installs_allowed_from": [
+        "*"
+    ],
+    "appcache_path": "/cache.manifest",
+    "locales": {
+        "es": {
+            "description": "PhotoTour",
+            "developer": {
+                "url": "http://www.lsrmarketingservice.com"
+            }
+        }
+    },
+    "default_locale": "en"
+}
